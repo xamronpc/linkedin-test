@@ -1,10 +1,4 @@
-<a href='https://ko-fi.com/C0C31OAG4' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-
-## Linkedin Quiz Answers, Skill Assessments Test
-
-## Us mentioned on [Medium](https://medium.com/codex/4-github-repos-that-will-help-every-beginner-programmer-bc5c1417da05) [YouTube](https://www.youtube.com/watch?v=XMJGSEvH044)
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEbazhanov%2Flinkedin-skill-assessments-quizzes&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+## Linkedin Test
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-872-orange.svg?style=flat-square)](#contributors-)
@@ -12,18 +6,7 @@
 
 > This repository is for those looking for answers to the LinkedIn assessment quiz questions or willing to help others by contributing to the tests. Or possibly you would like to create your first pull request and be added as a contributor. Whatever is your goal - you are always welcome here! Feel free to use [online grammar checker](https://www.grammarly.com/) when you contribute!
 
-#### PLEASE 🙏
-
-Add explanation (`or reference link`) to your answers. That will help anyone to better learn concepts they might not
-have a great understanding about.
-
-#### Announcement 🎉:
-
-1. If you want to meet each other or discuss quiz related problems join the `Discord` chat
-
-[![Join our Discord server!](https://invidget.switchblade.xyz/NKCyjjw3MW?theme=light)](https://discord.gg/NKCyjjw3MW)
-
-2. Playground before taking quiz
+Playground before taking quiz
    > https://linkedin-faq.github.io/md2practice/
 
 want to contribute? here is the source code https://github.com/linkedin-faq
